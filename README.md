@@ -17,7 +17,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jenish123&show_icons=true&theme=radical" alt="jenishbhalala16" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jenishbhalala16&show_icons=true&theme=radical" alt="jenishbhalala16" />
 </p>
 
 
