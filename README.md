@@ -1,7 +1,7 @@
 # Hi 👋, I'm Jenish
 ### A passionate Flutter Developer from India 🇮🇳
 
-- 🌱 I’m currently learning **Advanced Flutter animations and backend integration**
+- 🌱 I’m currently learning **Full stack app development**
 - 💬 Ask me about **Flutter, Node.js**
 - 📫 How to reach me **jenishbhalala122@example.com**
 - ⚡ Fun fact **I love brain games and fitness challenges!**
