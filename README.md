@@ -2,9 +2,8 @@
 ### A passionate Flutter Developer from India 🇮🇳
 
 - 🌱 I’m currently learning **Advanced Flutter animations and backend integration**
-- 🔭 I’m currently working at **Greetbuzz Graphics**
-- 💬 Ask me about **Flutter, Node.js, Firebase**
-- 📫 How to reach me **jenish@example.com**
+- 💬 Ask me about **Flutter, Node.js**
+- 📫 How to reach me **jenishbhalala122@example.com**
 - ⚡ Fun fact **I love brain games and fitness challenges!**
 
 ## 🚀 Languages and Tools:
@@ -13,6 +12,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
 </p>
 
 ## 📈 GitHub Stats
