@@ -16,7 +16,7 @@
 </p>
 
 ## 📈 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jenishbhalala16&show_icons=true&theme=radical" alt="jenishbhalala16" />
 </p>
 
