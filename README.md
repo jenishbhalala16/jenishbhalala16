@@ -13,7 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=api&logoColor=white" height="30"/>
 </p>
 
 ## 📈 GitHub Stats
