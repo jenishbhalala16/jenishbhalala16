@@ -17,10 +17,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jenish123&show_icons=true&theme=radical" alt="jenish123" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jenish123&show_icons=true&theme=radical" alt="jenishbhalala16" />
 </p>
 
-## ✍️ Random Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-</p>
+
