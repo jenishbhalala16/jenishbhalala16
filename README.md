@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Jenish
+### A passionate Flutter Developer from India 🇮🇳
 
-<!--
-**jenishbhalala16/jenishbhalala16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Advanced Flutter animations and backend integration**
+- 🔭 I’m currently working at **Greetbuzz Graphics**
+- 💬 Ask me about **Flutter, Node.js, Firebase**
+- 📫 How to reach me **jenish@example.com**
+- ⚡ Fun fact **I love brain games and fitness challenges!**
 
-Here are some ideas to get you started:
+## 🚀 Languages and Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jenish123&show_icons=true&theme=radical" alt="jenish123" />
+</p>
+
+## ✍️ Random Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</p>
