@@ -15,11 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
 </p>
 
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jenishbhalala16&show_icons=true&theme=radical" alt="jenishbhalala16" />
-</p>
-
 ### 🔗 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/jenish-bhalala-318336242/" target="blank">
