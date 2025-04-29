@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full stack app development**
 - 💬 Ask me about **Flutter, Node.js**
-- 📫 How to reach me **jenishbhalala122@example.com**
+- 📫 How to reach me **jenishbhalala122@gmail.com**
 - ⚡ Fun fact **I love brain games and fitness challenges!**
 
 ## 🚀 Languages and Tools:
